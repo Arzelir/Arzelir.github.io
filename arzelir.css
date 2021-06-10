@@ -70,14 +70,7 @@ color: blue;
 
   video
   {
-display:block;
-margin: 0 auto;
-width: 800;
-  }
-
-  video
-  {
-    display:block;
-margin: 0 auto;
-width: 800;
+margin: 20 auto;
+padding-left: 20px;
+width: 250px;
   }
