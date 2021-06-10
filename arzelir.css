@@ -1,0 +1,83 @@
+
+body {
+    font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+    margin: 2em;
+    background-color: #1b1b1b;
+  }
+  
+  h1 {
+    color: green;
+    text-align: center;
+    font-size: 50px;
+
+  }
+  
+  h2 {
+    color: aqua;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: green;
+    text-align: center;
+  }
+
+  div
+  {
+display:block;
+margin: 0 auto;
+min-height: fit-content;
+max-width:fit-content;
+
+  }
+  #color
+  {
+    background-color: #1f1f1f;
+  }
+
+.button
+{
+  display: block;
+  padding: 25px;
+  border-width: 2px;
+  border-color: #fec035;
+  display:inline-block;
+  font-size: 25px;
+  text-align: center;
+  background-color: green;
+  margin: 4px 2px;
+
+}
+
+  a
+  {
+    color:#fec035;
+display: block;
+text-align: center;
+font-size: 25px;
+
+
+  }
+
+  a:hover
+  
+  {
+color: blue;
+  }
+
+
+  video
+  {
+display:block;
+margin: 0 auto;
+width: 800;
+  }
+
+  video
+  {
+    display:block;
+margin: 0 auto;
+width: 800;
+  }
